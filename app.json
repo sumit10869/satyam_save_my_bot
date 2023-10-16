@@ -8,21 +8,21 @@
         "Save restricted content",
         "bot"
     ],
-    "repository": "https://github.com/187dasharath/savebotworking",
+    "repository": "https://github.com/sumit10869/satyam_save_my_bot",
     "website": "",
     "success_url": "https://t.me/save_restricted",
     "env": {
             "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": ""
+            "value": "d3f7a4dc6321598dbfb0bd27343ab883"
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": ""
+            "value": "17731913"
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "6696268467:AAGi40houGDw289mLcj28qSiUCv1iPg3h6k"
         },
         "SESSION": {
             "description": "Pyrogram string session.",
@@ -30,11 +30,11 @@
         },
         "AUTH": {
             "description": "User ID of Bot owner.",
-            "value": ""
+            "value": "5904348755,6090912349,5900632797"
         },
         "FORCESUB": {
             "description": "Username name of public channel without using '@'.",
-            "value": ""
+            "value": "official_satyam01"
         }
     },
     "stack": "container"
