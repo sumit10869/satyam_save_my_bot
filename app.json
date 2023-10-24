@@ -14,15 +14,15 @@
     "env": {
             "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": "d3f7a4dc6321598dbfb0bd27343ab883"
+            "value": ""
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": "17731913"
+            "value": ""
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": "6696268467:AAGi40houGDw289mLcj28qSiUCv1iPg3h6k"
+            "value": ""
         },
         "SESSION": {
             "description": "Pyrogram string session.",
@@ -30,7 +30,7 @@
         },
         "AUTH": {
             "description": "User ID of Bot owner.",
-            "value": "5900632797"
+            "value": ""
         },
         "FORCESUB": {
             "description": "Username name of public channel without using '@'.",
