@@ -2,35 +2,35 @@
 
     "name": "Save restricted content bot",
     "description": "Telegram bot to save restricted content.",
-    "logo": "",
+    "logo": "https://iili.io/JdnWahQ.md.jpg",
     "keywords": [
         "telegram",
         "Save restricted content",
         "bot"
     ],
-    "repository": "https://github.com/sumit10869/satyam_save_my_bot",
+    "repository": "https://github.com/187dasharath/savebotworking",
     "website": "",
     "success_url": "https://t.me/save_restricted",
     "env": {
             "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": "f1cc9ff726684360e45bdc612605f30b"
+            "value": ""
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": "24454391"
+            "value": ""
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": "7037176954:AAE_EQnE440F52f_UiuqY1p6tK6fOQp-5JU"
+            "value": ""
         },
         "SESSION": {
             "description": "Pyrogram string session.",
             "value": ""
-       
+        },
         "AUTH": {
             "description": "User ID of Bot owner.",
-            "value": "5330239547"
+            "value": ""
         },
         "FORCESUB": {
             "description": "Username name of public channel without using '@'.",
