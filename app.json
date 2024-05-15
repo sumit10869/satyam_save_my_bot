@@ -22,7 +22,7 @@
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": "6733833024:AAGdWe34B21dZ9-hneLLnvQghBYTrgz1x9w"
+            "value": ""
         },
         "SESSION": {
             "description": "Pyrogram string session.",
