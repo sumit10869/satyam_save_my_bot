@@ -88,7 +88,7 @@ async def _batch(event):
                                     buttons=[[Button.inline("CANCEL❌", data="cancel")]])
             co = await run_batch(userbot, Bot, event.sender_id, cd, _link) 
             try: 
-                if co == -30:
+                if co == -2:
                     await Bot.send_message(event.sender_id, "Batch successfully completed!")
                     await cd.edit(f"**Batch process ongoing.**\n\nProcess completed: {value} \n\n Batch successfully completed! ")
             except:
