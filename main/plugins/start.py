@@ -42,7 +42,7 @@ async def remt(event):
   
 @Invix.on(events.NewMessage(incoming=True, pattern=f"{S}"))
 async def start(event):
-    text = "👋 𝗛𝗶, 𝗜 𝗮𝗺 [𝐏𝐫𝐢𝐯𝐚𝐭𝐞 𝐕𝐢𝐝𝐞𝐨 𝐒𝐚𝐯𝐞 𝐁𝐨𝐭 🖲️](https://t.me/private_Video_Save_Bot)\n\n👉🏻**Execute /batch for bulk process upto 10000 files range.**\n\n🧑‍💻**𝗢𝘄𝗻𝗲𝗿:** [๛𝐌𝐑๛𝐒𝐀𝐓𝐘𝐀𝐌๛](tg://openmessage?user_id=6090912349) \n☎️**𝗦𝘂𝗽𝗽𝗼𝗿𝘁:** [CLICK HERE](https://t.me/s_r_c_help_bot)"
+    text = "👋 𝗛𝗶, 𝗜 𝗮𝗺 [𝐏𝐫𝐢𝐯𝐚𝐭𝐞 𝐕𝐢𝐝𝐞𝐨 𝐒𝐚𝐯𝐞 𝐁𝐨𝐭 🖲️](https://t.me/private_Video_Save_Bot)\n\n👉🏻**Execute /batch for bulk process upto 10000 files range.**"
     #await start_srb(event, text)
     '''
     await event.reply(text, 
@@ -54,8 +54,8 @@ async def start(event):
     
     await event.reply(text, 
                       buttons=[
-                              [Button.inline("🔥 **SET THUMB** 🔥", data="set"),
-                               Button.inline("🔥 **REM THUMB** 🔥", data="rem")]])
+                              [Button.inline("SET THUMB", data="set"),
+                               Button.inline("REM THUMB", data="rem")]])
           
     
     
