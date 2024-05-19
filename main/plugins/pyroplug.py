@@ -133,7 +133,7 @@ async def get_msg(userbot, client, sender, edit_id, msg_link, i, file_n):
                 progress=progress_for_pyrogram,
                 progress_args=(
                     client,
-                    "**DOWNLOADING:**\n**bot made by Mr. SATYAM**",
+                    "**𝘿𝙊𝙒𝙉𝙇𝙊𝘿𝙄𝙉𝙂 📥:**\n\n**𝐁𝐨𝐭 𝐌𝐚𝐝𝐞 𝐁𝐲 [๛𝐌𝐑๛𝐒𝐀𝐓𝐘𝐀𝐌๛](https://t.me/official_satyam01)**\n",
                     edit,
                     time.time()
                 )
@@ -186,7 +186,7 @@ async def get_msg(userbot, client, sender, edit_id, msg_link, i, file_n):
                     progress=progress_for_pyrogram,
                     progress_args=(
                         client,
-                        '**UPLOADING:**\n**bot made by Mr. SATYAM**',
+                        '**𝙐𝙋𝙇𝙊𝘼𝘿𝙄𝙉𝙂 📤:**\n\n**𝐁𝐨𝐭 𝐌𝐚𝐝𝐞 𝐁𝐲 [๛𝐌𝐑๛𝐒𝐀𝐓𝐘𝐀𝐌๛](https://t.me/official_satyam01)**\n',
                         upm,
                         time.time()
                     )
@@ -229,7 +229,7 @@ async def get_msg(userbot, client, sender, edit_id, msg_link, i, file_n):
                     progress=progress_for_pyrogram,
                     progress_args=(
                         client,
-                        '**UPLOADING:**\n**bot made by Mr. SATYAM**',
+                        '**𝙐𝙋𝙇𝙊𝘼𝘿𝙄𝙉𝙂 📤:**\n\n**𝐁𝐨𝐭 𝐌𝐚𝐝𝐞 𝐁𝐲 [๛𝐌𝐑๛𝐒𝐀𝐓𝐘𝐀𝐌๛](https://t.me/official_satyam01)**\n',
                         upm,
                         time.time()
                     )
