@@ -42,7 +42,7 @@ async def remt(event):
   
 @Invix.on(events.NewMessage(incoming=True, pattern=f"{S}"))
 async def start(event):
-    text = "👋 𝗛𝗶, 𝗜 𝗮𝗺 [𝐏𝐫𝐢𝐯𝐚𝐭𝐞 𝐕𝐢𝐝𝐞𝐨 𝐒𝐚𝐯𝐞 𝐁𝐨𝐭 🖲️](https://t.me/private_Video_Save_Bot)\n\n👉🏻**Execute /batch for bulk process upto 10000 files range.**"
+    text = "👋 𝗛𝗶, 𝗜 𝗮𝗺 [𝐏𝐫𝐢𝐯𝐚𝐭𝐞 𝐕𝐢𝐝𝐞𝐨 𝐒𝐚𝐯𝐞 𝐁𝐨𝐭 🖲️](https://t.me/private_Video_Save_Bot)\n\n👉🏻**Execute /batch for bulk process upto 10k files range.**"
     #await start_srb(event, text)
     '''
     await event.reply(text, 
