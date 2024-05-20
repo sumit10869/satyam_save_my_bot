@@ -41,8 +41,8 @@ async def clone(event):
             return
     lit=event.text
     li=lit.split("\n")
-    if len(li) > 1:
-        await event.reply("max 1 links per message")
+    if len(li) > 500:
+        await event.reply("max 500 links per message")
         return
     for li in li:
         #1239
