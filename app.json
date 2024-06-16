@@ -14,11 +14,11 @@
     "env": {
             "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": "f1cc9ff726684360e45bdc612605f30b"
+            "value": ""
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": "24454391"
+            "value": ""
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
@@ -30,11 +30,11 @@
         },
         "AUTH": {
             "description": "User ID of Bot owner.",
-            "value": "5330239547"
+            "value": ""
         },
         "FORCESUB": {
             "description": "Username name of public channel without using '@'.",
-            "value": "official_satyam01"
+            "value": ""
         }
     },
     "stack": "container"
